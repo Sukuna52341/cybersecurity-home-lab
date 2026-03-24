@@ -1,4 +1,4 @@
-````markdown
+
 # 🔐 Cybersecurity Home Lab (SOC Practice Environment)
 
 ## 📌 Overview
@@ -79,7 +79,7 @@ After applying this change, all machines were able to communicate successfully.
 ```bash
 ping 192.168.56.129
 ping 192.168.56.20
-````
+
 
 ---
 
