@@ -13,9 +13,9 @@ The lab consists of three virtual machines connected within a private network:
 
 | Machine        | Role            | IP Address       |
 |----------------|-----------------|------------------|
-| Kali Linux     | Attacker        | 192.168.56.10    |
-| Ubuntu Server  | Target Server   | 192.168.56.20    |
-| Windows 7      | Victim Machine  | 192.168.56.30    |
+| Kali Linux     | Attacker        | 192.168.56.128    |
+| Ubuntu Server  | Target Server   | 192.168.56.129    |
+| Windows 7      | Victim Machine  | 192.168.56.20    |
 
 All machines are connected using a Host-Only network to ensure isolated and secure communication.
 
