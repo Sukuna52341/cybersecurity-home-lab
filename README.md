@@ -109,7 +109,7 @@ Identify open ports and running services on the target system.
 After identifying an open SSH port on the Ubuntu server, a remote connection was established from the Kali Linux machine:
 
 ```bash
-ssh ubuntu@192.168.56.129
+ssh "Mary Chelsey"@192.168.56.129
 
 ```
 
