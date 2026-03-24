@@ -32,7 +32,7 @@ All systems communicate within the subnet: **192.168.56.0/24**
 - **Tools & Utilities:**
   - Nmap (Network Scanning)
   - SSH (Remote Access)
-  - Windows Event Viewer (Log Analysis)
+  - Ubuntu(Log Analysis)
 
 ---
 
