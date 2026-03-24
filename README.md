@@ -161,5 +161,3 @@ It also demonstrates the ability to build, manage, and analyze a controlled lab 
 **Field:** Cybersecurity
 **Focus:** SOC Analysis | Threat Detection | Network Security
 
-```
-```
