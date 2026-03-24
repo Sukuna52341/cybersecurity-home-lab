@@ -67,4 +67,4 @@ A Host-Only Adapter was used to create a private internal network.
 The Kali Linux machine was used to scan the Ubuntu Server:
 
 ```bash
-nmap -sV 192.168.56.20
+nmap -sV 192.168.56.129 or nmap 192.168.56.129
