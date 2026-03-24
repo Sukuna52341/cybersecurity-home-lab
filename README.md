@@ -109,6 +109,7 @@ Identify open ports and running services on the target system.
 ### 🧩 Lab Setup
 
 ![VM Setup](images/vm-setup.png)
+![VM Setup](images/vm-setup2.png)
 
 ### 🌐 Network Diagram
 
@@ -116,7 +117,7 @@ Identify open ports and running services on the target system.
 
 ### 🔗 Connectivity Test
 
-![Ping Test](images/ping-test.png)
+![Ping Test](images/ping-tests.png)
 
 ### 🔍 Nmap Scan Results
 
