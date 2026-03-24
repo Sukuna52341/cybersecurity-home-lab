@@ -104,6 +104,15 @@ Identify open ports and running services on the target system.
 
 ---
 
+### 🔐 SSH Access
+
+After identifying an open SSH port on the Ubuntu server, a remote connection was established from the Kali Linux machine:
+
+```bash
+ssh ubuntu@192.168.56.129
+
+```
+
 ## 📸 Screenshots
 
 ### 🧩 Lab Setup
@@ -122,6 +131,13 @@ Identify open ports and running services on the target system.
 ### 🔍 Nmap Scan Results
 
 ![Nmap Scan](images/nmap-scan.png)
+
+### ssh access
+
+![ssh access attempt](images/ssh-access-attempt.png)
+
+### Logs
+![Logs](images/logs.png)
 
 ---
 
