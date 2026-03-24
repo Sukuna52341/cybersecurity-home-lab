@@ -109,9 +109,17 @@ Identify open ports and running services on the target system.
 After identifying an open SSH port on the Ubuntu server, a remote connection was established from the Kali Linux machine:
 
 ```bash
-ssh "Mary Chelsey"@192.168.56.129
+ssh cmca@192.168.56.129
 
 ```
+
+After establishing SSH access, logs were analyzed on the Ubuntu server to monitor authentication activity:
+
+```bash
+cat /var/log/auth.log
+
+```
+The logs show successful SSH login activity from the Kali Linux machine, confirming that the remote access attempt was recorded by the system.
 
 ## 📸 Screenshots
 
@@ -134,7 +142,7 @@ ssh "Mary Chelsey"@192.168.56.129
 
 ### ssh access
 
-![ssh access attempt](images/ssh-access-attempt.png)
+![ssh access](images/ssh-access.png)
 
 ### Logs
 ![Logs](images/logs.png)
