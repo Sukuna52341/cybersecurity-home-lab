@@ -1,14 +1,14 @@
 
-# 🔐 Cybersecurity Home Lab (SOC Practice Environment)
+#  Cybersecurity Home Lab (SOC Practice Environment)
 
-## 📌 Overview
+##  Overview
 This project demonstrates the design and implementation of a personal cybersecurity home lab using virtualization technologies. The lab simulates a small, isolated network environment where both offensive and defensive security techniques can be practiced safely.
 
 The objective is to build practical, hands-on skills aligned with a SOC Analyst role, including network scanning, system configuration, troubleshooting, and basic attack simulation.
 
 ---
 
-## 🧱 Lab Architecture
+##  Lab Architecture
 
 The lab consists of three virtual machines connected through a private Host-Only network:
 
@@ -22,7 +22,7 @@ All systems communicate within the subnet: **192.168.56.0/24**
 
 ---
 
-## 🖥️ Technologies Used
+##  Technologies Used
 
 - **Virtualization:** VirtualBox / VMware Workstation Player  
 - **Operating Systems:**
@@ -104,7 +104,7 @@ Identify open ports and running services on the target system.
 
 ---
 
-### 🔐 SSH Access
+###  SSH Access
 
 After identifying an open SSH port on the Ubuntu server, a remote connection was established from the Kali Linux machine:
 
@@ -173,13 +173,13 @@ The logs show successful SSH login activity from the Kali Linux machine, confirm
 
 ## 📚 Key Takeaways
 
-This project highlights the importance of both technical setup and troubleshooting in cybersecurity. Beyond basic configuration, resolving real-world issues—such as firewall restrictions—provides deeper insight into how systems behave in a networked environment.
+This project highlights the importance of both technical setup and troubleshooting in cybersecurity. Beyond basic configuration, resolving real-world issues, such as firewall restrictions provides deeper insight into how systems behave in a networked environment.
 
 It also demonstrates the ability to build, manage, and analyze a controlled lab environment similar to enterprise infrastructures.
 
 ---
 
-## 📎 Author
+##  Author
 
 **Name:** Chick Mary
 **Field:** Cybersecurity
